@@ -1,0 +1,68 @@
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\ApplicationInsights.config
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\shop.dll.config
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\shop.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\shop.pdb
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.Web.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.Threading.Tasks.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\System.IO.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\System.Runtime.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\System.Threading.Tasks.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.Web.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.Threading.Tasks.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\System.IO.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\System.Runtime.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\bin\System.Threading.Tasks.xml
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\obj\Debug\shop.csproj.App.config
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\obj\Debug\shop.dll
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\obj\Debug\shop.pdb
+C:\Users\YUNUS\Documents\Visual Studio 2015\Projects\ETicaret\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\ApplicationInsights.config
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\shop.dll.config
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\shop.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\shop.pdb
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.Web.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.Threading.Tasks.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\System.IO.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\System.Runtime.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\System.Threading.Tasks.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.Web.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.Threading.Tasks.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\System.IO.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\System.Runtime.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\bin\System.Threading.Tasks.xml
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\obj\Debug\shop.csproj.App.config
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\obj\Debug\shop.csprojResolveAssemblyReference.cache
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\obj\Debug\shop.dll
+C:\Users\yunus\Desktop\YEDEK\Yeni klasör\Projeler\ETicaret\shop\obj\Debug\shop.pdb
